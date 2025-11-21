@@ -8,7 +8,7 @@ nav:
   - Collaborators: collaborators.md
   - Publications: publications.md
   - Code: code.md
-  - Educational Activities: educational_activities.md
+  - Activities: educational_activities.md
 theme:
   name: material
   palette:
