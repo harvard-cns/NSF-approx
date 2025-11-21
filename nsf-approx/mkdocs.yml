@@ -1,5 +1,7 @@
 site_name: "Approximation and Randomization in the Programmable Data Planes"
 site_description: "NSF Research Project on Approximation and Randomization Algorithms for Programmable Switches"
+site_url: https://harvard-cns.github.io/NSF-approx/
+repo_url: https://github.com/harvard-cns/NSF-approx
 nav:
   - Home: index.md
   - Personnel: personnel.md
