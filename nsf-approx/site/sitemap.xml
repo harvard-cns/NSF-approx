@@ -1,3 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://harvard-cns.github.io/NSF-approx/</loc>
+         <lastmod>2025-11-21</lastmod>
+    </url>
+    <url>
+         <loc>https://harvard-cns.github.io/NSF-approx/collaborators/</loc>
+         <lastmod>2025-11-21</lastmod>
+    </url>
+    <url>
+         <loc>https://harvard-cns.github.io/NSF-approx/educational_activities/</loc>
+         <lastmod>2025-11-21</lastmod>
+    </url>
+    <url>
+         <loc>https://harvard-cns.github.io/NSF-approx/impacts/</loc>
+         <lastmod>2025-11-21</lastmod>
+    </url>
+    <url>
+         <loc>https://harvard-cns.github.io/NSF-approx/personnel/</loc>
+         <lastmod>2025-11-21</lastmod>
+    </url>
+    <url>
+         <loc>https://harvard-cns.github.io/NSF-approx/publications/</loc>
+         <lastmod>2025-11-21</lastmod>
+    </url>
+    <url>
+         <loc>https://harvard-cns.github.io/NSF-approx/selected_projects/</loc>
+         <lastmod>2025-11-21</lastmod>
+    </url>
 </urlset>
