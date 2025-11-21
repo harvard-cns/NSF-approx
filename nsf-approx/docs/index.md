@@ -18,16 +18,6 @@ The research focus for this project is the design and analysis of systems for th
 
 These three focus areas provide a synergistic virtuous circle. We plan to utilize theoretical models to build general code libraries for this setting, allowing more rapid development of results for specific applications. In turn, this will lead to improvements and expansion of the theoretical model and library code, creating a positive feedback loop for this line of research.
 
-## Current Research Directions
-
-### Embedding-Based Scheduling for LLMs
-
-We have developed TRAIL, a novel approach that improves response time in LLM inference through embedding-based prediction and prediction-based SRPT scheduling with limited preemption. TRAIL achieves 1.66x to 2.01x lower mean latency and 1.76x to 24.07x lower mean time to the first token compared to state-of-the-art serving systems.
-
-### CPU Offloading for Online LLM Inference
-
-We have developed NEO, an online LLM inference system that offloads part of attention compute and KV cache states from the GPU to the local host CPU, effectively increasing the GPU batch size and thus inference throughput. NEO achieves up to 7.5×, 26%, and 14% higher throughput compared to GPU-only approaches on T4, A10G, and H100 GPUs, respectively.
-
 ---
 
 <div style="text-align: center; margin: 40px 0;">
