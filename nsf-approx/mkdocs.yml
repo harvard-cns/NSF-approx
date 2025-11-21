@@ -7,7 +7,6 @@ nav:
   - Personnel: personnel.md
   - Collaborators: collaborators.md
   - Publications: publications.md
-  - Code: code.md
   - Activities: educational_activities.md
 theme:
   name: material
