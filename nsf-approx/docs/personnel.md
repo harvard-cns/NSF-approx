@@ -3,7 +3,7 @@
 ## Principal Investigators
 
 <div>
-  <img src="../assets/personnel/minlan-yu.jpg" alt="Minlan Yu" style="max-width: 100px;">
+  <img src="/NSF-approx/assets/personnel/minlan-yu.jpg" alt="Minlan Yu" style="max-width: 100px;">
 </div>
 
 **Dr. [Minlan Yu](https://minlanyu.seas.harvard.edu/)**<br />
@@ -13,7 +13,7 @@ Harvard University
 <div style="margin-top: 50px;"></div>
 
 <div>
-  <img src="../assets/personnel/michael-mitzenmacher.jpg" alt="Michael Mitzenmacher" style="max-width: 100px;">
+  <img src="/NSF-approx/assets/personnel/michael-mitzenmacher.jpg" alt="Michael Mitzenmacher" style="max-width: 100px;">
 </div>
 
 **Dr. [Michael Mitzenmacher](https://www.eecs.harvard.edu/~michaelm/)**<br />
@@ -23,7 +23,7 @@ Harvard University
 ## Postdoctoral Researchers
 
 <div>
-  <img src="../assets/personnel/rana-shahout.jpg" alt="Rana Shahout" style="max-width: 100px;">
+  <img src="/NSF-approx/assets/personnel/rana-shahout.jpg" alt="Rana Shahout" style="max-width: 100px;">
 </div>
 
 **Rana Shahout**<br />
@@ -33,7 +33,7 @@ Harvard University
 ## Graduate Students
 
 <div>
-  <img src="../assets/personnel/weifan-jiang.jpg" alt="Weifan Jiang" style="max-width: 100px;">
+  <img src="/NSF-approx/assets/personnel/weifan-jiang.jpg" alt="Weifan Jiang" style="max-width: 100px;">
 </div>
 
 **Weifan Jiang**<br />
@@ -41,7 +41,7 @@ Graduate Student<br />
 Harvard University
 
 <div>
-  <img src="../assets/personnel/yang-zhou.jpg" alt="Yang Zhou" style="max-width: 100px;">
+  <img src="/NSF-approx/assets/personnel/yang-zhou.jpg" alt="Yang Zhou" style="max-width: 100px;">
 </div>
 
 **Yang Zhou**<br />
@@ -53,7 +53,7 @@ Graduate Student<br />
 Harvard University
 
 <div>
-  <img src="../assets/personnel/zhiying-xu.jpg" alt="Zhiying Xu" style="max-width: 100px;">
+  <img src="/NSF-approx/assets/personnel/zhiying-xu.jpg" alt="Zhiying Xu" style="max-width: 100px;">
 </div>
 
 **Zhiying Xu**<br />
